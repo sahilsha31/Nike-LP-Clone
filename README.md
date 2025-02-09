@@ -1,15 +1,39 @@
-<<<<<<< HEAD
-# Nike-LP-Clone
-=======
-This is the Nike Landing Page Clone Project 
+# Nike Landing Page Clone  
 
+A modern and responsive landing page inspired by Nike, built using **React** and **Vite**.  
 
-# React + Vite
+## 🚀 Features  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **Fast & Lightweight** – Powered by Vite for blazing-fast development.  
+- **Responsive Design** – Works seamlessly on all screen sizes.  
+- **Reusable Components** – Modular and maintainable React components.  
+- **Optimized Performance** – Uses lazy loading and optimized assets.  
+- **Styled with Tailwind CSS** – Modern and clean UI.  
 
-Currently, two official plugins are available:
+## 🛠 Tech Stack  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 5dffe56 (Fix line endings)
+- **React.js** – Component-based UI development.  
+- **Vite** – Next-gen frontend tooling.  
+- **Tailwind CSS** – Utility-first styling.  
+
+## 📦 Installation  
+
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/sahilsha31/Nike-LP-Clone.git
+   cd Nike-LP-Clone
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server:
+    npm run dev
+
+## Deployment
+To build the project for production:
+
+npm run build
+
+## Preview
+
+![alt text](image.png)
