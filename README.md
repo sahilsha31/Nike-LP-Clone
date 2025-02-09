@@ -37,3 +37,8 @@ npm run build
 ## Preview
 
 ![alt text](image.png)
+
+## Contributing
+Feel free to submit issues or contribute to the project by creating a pull request.
+
+## Developed with ❤️ by Sahil Sharma
